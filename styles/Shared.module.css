@@ -1,0 +1,16 @@
+.mainActionBtn {
+  @apply 
+    inline-block
+    py-2
+    px-4
+    border
+    border-transparent
+    rounded-md
+    text-base
+    font-medium
+
+    text-black 
+    bg-c-secondary
+    hover:bg-c-l-secondary;
+    
+}
